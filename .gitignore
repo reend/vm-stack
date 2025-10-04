@@ -1,3 +1,4 @@
 *.o
 stack-vm
-
+/sasm/out.bin 
+/sasm/sasm

@@ -18,7 +18,7 @@ enum State : byte {
 };
 
 class Lexer {
-    bool my_issspace(char c);
+    bool my_isspace(char c);
     bool isspecial(char c);
     bool isgroup(char c);
     char end_char, beg_char;

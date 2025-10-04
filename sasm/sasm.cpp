@@ -2,7 +2,7 @@
 #include <fstream>
 #include "lexer.h"
 
-typdef uint32_t i32;
+typedef uint32_t i32;
 
 using namespace std;
 
